@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCv</string>
+    <item name="holder" type="id"></item>
+    <item name="data" type="id"></item>
+</resources>
